@@ -8,7 +8,7 @@
 
 ## 一、網站在哪裡
 
-網址：<https://chouchiai-byte.github.io/study_life-schedule-/>
+網址：<https://chouchiai-byte.github.io/Study_life-schedule-/>
 
 網站放在 GitHub Pages（免費）。每次把程式推送到 `main` 分支，GitHub 會自動跑測試、建置並發布（約 1–2 分鐘），
 孩子下次開啟 App 會自動更新，手機裡的資料不受影響。發布進度可在儲存庫的「Actions」分頁查看。
